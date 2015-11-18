@@ -12,7 +12,7 @@
       "ec2_port": null,
       "bucket_default": "",
       "s3_port": null,
-      "s3_host": "s3-ap-southeast-1.amazonaws.com",
+      "s3_host": "s3.amazonaws.com",
       "is_secure": true,
       "s3_conn_path": "/",
       "ec2_conn_path": "/",
