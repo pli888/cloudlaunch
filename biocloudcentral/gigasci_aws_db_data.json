@@ -200,5 +200,19 @@
       "description": "Galaxy CloudMan on Ubuntu 14.04: 03 November 2015",
       "cloud": 1
     }
+  },
+  {
+    "pk": 17,
+    "model": "biocloudcentral.image",
+    "fields": {
+      "updated": "2015-11-18",
+      "added": "2015-11-18",
+      "kernel_id": "",
+      "default": false,
+      "ramdisk_id": "",
+      "image_id": "ami-608d4c03",
+      "description": "GigaGalaxy CloudMan on Ubuntu 14.04: 18 November 2015",
+      "cloud": 1
+    }
   }
 ]
